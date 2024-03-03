@@ -4,10 +4,6 @@ import exercicioformas.D2.Circulo;
 import exercicioformas.D2.Forma2D;
 import exercicioformas.D2.Quadrado;
 import exercicioformas.D2.Retangulo;
-import exercicioformas.D3.Cilindro;
-import exercicioformas.D3.Cubo;
-import exercicioformas.D3.Esfera;
-import exercicioformas.D3.Forma3D;
 
 import java.util.List;
 
